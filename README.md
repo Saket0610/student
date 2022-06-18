@@ -1,1 +1,2 @@
-# student
+# cbz-student-ui
+
